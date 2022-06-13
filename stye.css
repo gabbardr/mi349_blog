@@ -37,13 +37,13 @@ p {
 }
 
 a[target] {
-  background-color: rgb(15, 15, 15);
+  f: rgb(208, 208, 208);
 }
 
 label {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-ul {
-  background: #add0cc;
+ table {
+  background: #d3d8d8;
 }
